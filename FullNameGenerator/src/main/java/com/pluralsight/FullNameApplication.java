@@ -24,10 +24,7 @@ public class FullNameApplication {
         middleName = middleName.trim().isEmpty() ? "" : " "+middleName.trim();
         suffix = suffix.trim().isEmpty() ? "" : ", "+suffix.trim();
 
-        // Adding up the full name
-        String fullName = firstName.trim() + middleName +" "+ lastName.trim() + suffix;
-
-        // Printing it out
-        System.out.println("Full name: " + fullName);
+        // Adding up and printing it out
+        System.out.println("Full name: " + firstName.trim() + middleName +" "+ lastName.trim() + suffix);
     }
 }
