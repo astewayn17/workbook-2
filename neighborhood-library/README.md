@@ -3,17 +3,17 @@
 ## Home Screen
 Here is my home screen:
 
-![Home Screen](https://github.com/your-username/your-repo/raw/main/screenshots/home.png)
+![Home Screen](https://github.com/astewayn17/workbook-2/blob/main/neighborhood-library/screenshots/home.png)
 
 ## Products Display
 Here you can view our available book selection:
 
-![Product Screen](https://github.com/your-username/your-repo/raw/main/screenshots/products.png)
+![Product Screen](https://github.com/astewayn17/workbook-2/blob/main/neighborhood-library/screenshots/products.png)
 
 ## Calculator Error
 Here you can see part of my code that shows an error message and an example of it in the console:
 
-![Calculator Error](https://github.com/your-username/your-repo/raw/main/screenshots/calculator-error.png)
+![Calculator Error](https://github.com/astewayn17/workbook-2/blob/main/neighborhood-library/screenshots/error.png)
 
 ## Interesting Code: `toString()`
 
